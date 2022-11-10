@@ -1,53 +1,59 @@
 <template>
   <div>
-    <Nav />
-    <Slider />
-    <AboutOne />
-    <ServiceOne />
-    <BrandOne />
-    <FeaturedOne />
-    <VideoOne />
-    <TestimonialOne />
-    <RecentProject />
-    <Benefits />
-    <ProductOne />
-    <BlogOne />
-    <CallToActionOne />
-    <Footer />
+    <NavFour />
+    <SliderFour />
+    <DetailsOne />
+    <WelcomeTwo />
+    <EcoFriendly />
+    <ContactTwo />
+    <!-- <ServiceFour /> -->
+    <!-- <FaqOne /> -->
+    <!-- <TestimonialThree /> -->
+    <!-- <BrandFour /> -->
+    <!-- <AchievedOne /> -->
+    <!-- <FunfactOne />
+    <BlogFour />
+    <Footer /> -->
   </div>
 </template>
 
 <script>
-import Slider from "../components/Slider";
-import Nav from "../components/Nav";
-import AboutOne from "../components/AboutOne";
-import ServiceOne from "../components/ServiceOne";
-import BrandOne from "../components/BrandOne";
-import FeaturedOne from "../components/FeaturedOne";
-import VideoOne from "../components/VideoOne";
-import TestimonialOne from "../components/TestimonialOne";
-import RecentProject from "../components/RecentProject";
-import Benefits from "../components/Benefits";
-import ProductOne from "../components/ProductOne";
-import BlogOne from "../components/BlogOne";
-import CallToActionOne from "../components/CallToActionOne";
-import Footer from "../components/Footer";
-export default {
-  components: {
-    Footer,
-    CallToActionOne,
-    BlogOne,
-    ProductOne,
-    Benefits,
-    RecentProject,
-    TestimonialOne,
-    VideoOne,
-    FeaturedOne,
-    BrandOne,
-    ServiceOne,
-    AboutOne,
-    Slider,
-    Nav,
-  },
-};
+
+  import SliderFour from "../components/SliderFour";
+  import NavFour from "../components/NavFour";
+  import DetailsOne from "../components/DetailsOne";
+  import WelcomeTwo from "../components/WelcomeTwo";
+  import EcoFriendly from "../components/EcoFriendly";
+  import ServiceFour from "../components/ServiceFour";
+  import FaqOne from "../components/FaqOne";
+  import TestimonialThree from "../components/TestimonialThree";
+  import BrandFour from "../components/BrandFour";
+  import AchievedOne from "../components/AchievedOne";
+  import FunfactOne from "../components/FunfactOne";
+  import BlogFour from "../components/BlogFour";
+  import Footer from "../components/Footer";
+  import ContactTwo from "../components/ContactTwo";
+  export default {
+    components: {
+      Footer,
+      BlogFour,
+      FunfactOne,
+      AchievedOne,
+      BrandFour,
+      TestimonialThree,
+      FaqOne,
+      ServiceFour,
+      EcoFriendly,
+      WelcomeTwo,
+      DetailsOne,
+      NavFour,
+      SliderFour,
+      ContactTwo
+    },
+    head(){
+      return {
+        title: "Agrikol  | Home 4"
+      }
+    }
+  }
 </script>
