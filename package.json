@@ -19,5 +19,8 @@
     "vue-observe-visibility": "^0.4.6",
     "vue-slick-carousel": "^1.0.6"
   },
+  "engines": {
+    "node": "14.x"
+  },
   "devDependencies": {}
 }
