@@ -52,7 +52,7 @@
     },
     head(){
       return {
-        title: "Agrikol  | Home 4"
+        title: "Frank's Paddlesports Livery"
       }
     }
   }
