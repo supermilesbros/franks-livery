@@ -5,8 +5,7 @@
         <div class="col-xl-7">
           <div class="contact-one__form__wrap">
             <div class="block-title text-left">
-              <p>contact with us</p>
-              <h3>write us a message</h3>
+              <h3>Send us a message</h3>
               <div class="leaf">
                 <img src="/assets/images/resources/paddle2.png" alt="">
               </div>
