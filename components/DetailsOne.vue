@@ -5,7 +5,7 @@
         <div class="col-xl-4 col-lg-4">
           <div class="details_one_single  wow fadeInUp" data-wow-delay="300ms">
             <div class="details_one_content">
-              <h2>Paddlesport<br>Boat Rentals</h2>
+              <h2>By the Hour<br>Boat Rentals</h2>
             </div>
             <div class="details_one_count_box">
               <h3>01</h3>
@@ -15,7 +15,7 @@
         <div class="col-xl-4 col-lg-4">
           <div class="details_one_single wow fadeInUp" data-wow-delay="600ms">
             <div class="details_one_content">
-              <h2>River<br>Tours</h2>
+              <h2>Down River<br>Tours</h2>
             </div>
             <div class="details_one_count_box">
               <h3>02</h3>
@@ -25,10 +25,10 @@
         <div class="col-xl-4 col-lg-4">
           <div class="details_one_single wow fadeInUp" data-wow-delay="900ms">
             <div class="details_one_content">
-              <h2>Paddlesports<br>Training</h2>
+              <h2>Tailored<br>Experiences</h2>
             </div>
             <div class="details_one_count_box">
-              <h3>01</h3>
+              <h3>03</h3>
             </div>
           </div>
         </div>

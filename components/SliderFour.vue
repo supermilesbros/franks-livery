@@ -10,12 +10,12 @@
         </div>
         <div class="auto-container">
           <div class="content-box">
-            <div class="content text-right">
+            <div class="content text-center">
               <div class="inner">
                 <h1><span>Frank's Paddlesports Livery</span></h1>
-                <h1 style="font-size: 4em;">at The Parks Alliance of Indianapolis</h1>
+                <h1 style="font-size: 2.5em;">at The Parks Alliance of Indianapolis</h1>
                 <div style="padding-top: 35px;" class="link-box">
-                  <nuxt-link to="/index4" class="thm-btn">Discover More</nuxt-link>
+                  <nuxt-link to="/" class="thm-btn">Discover More</nuxt-link>
                 </div>
               </div>
             </div>

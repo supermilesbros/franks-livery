@@ -60,7 +60,7 @@
               </div>
             </div>
             <div style="text-align: left;" class="have_questions_text">
-              <p> To turn the eyes of the citizenry and visitors of Indianapolis towards the natural beauty of our waterways. rom the serenity of paddling Fall Creek through a state park, to sharing a picnic alongside friends nestled on the bank of the White River </p>
+              <p> To turn the eyes of the citizenry and visitors of Indianapolis towards the natural beauty of our waterways from the serenity of paddling Fall Creek through a state park, to sharing a picnic alongside friends nestled on the bank of the White River </p>
               <p>We are committed to helping people discover the joy and freedom of paddling and all of the healthy benefits and outdoor experiences that come with it.</p>
             </div>
           </div>

@@ -5,7 +5,7 @@
         <div class="col-xl-12">
           <div class="eco_friendly_content">
             <div class="eco_friendly_title">
-              <h2>help our fellow humans discover the allure, history, ecology and fun that rivers provide!</h2>
+              <h2>Grand OPENING<br><span>SPRING OF 2023</span></h2>
             </div>
           </div>
         </div>

@@ -4,7 +4,7 @@
     <div class="container">
       <div class="block-title text-center">
         <p style="color: #ed6700;">Welcome to FRANK'S</p>
-        <h3 style="font-size: 3em;">Turning the eyes of Indy towards the natural beauty of our waterways<br> through paddling experiences</h3>
+        <h3 style="font-size: 2.5em;">Turning the eyes of Indy towards the natural beauty <br>of our waterways<br> through paddling experiences</h3>
         <div class="leaf">
           <img src="assets/images/resources/paddle.png" alt="">
         </div>
