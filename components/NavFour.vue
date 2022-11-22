@@ -15,7 +15,7 @@
         <div class="topbar-one__middle">
          
         </div>
-        <div class="topbar-one__right">
+        <!-- <div class="topbar-one__right">
           <a href="https://www.parks-alliance.org/" target="_blank" class="main-nav__logo">
             <img
               src="/assets/images/resources/TPA_White.png"
@@ -24,7 +24,7 @@
               alt="Awesome Image"
             />
           </a>
-        </div>
+        </div> -->
       </div>
     </div>
 

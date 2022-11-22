@@ -13,9 +13,9 @@
             <div class="content text-center">
               <div class="inner">
                 <h1><span>Frank's Paddlesports Livery</span></h1>
-                <h1 style="font-size: 2.5em;">at The Parks Alliance of Indianapolis</h1>
+                <!-- <h1 style="font-size: 2.5em;">at The Parks Alliance of Indianapolis</h1> -->
                 <div style="padding-top: 35px;" class="link-box">
-                  <a href="https://www.parks-alliance.org/" target="_blank" class="thm-btn">Discover More</a>
+                  <a href="/" target="_blank" class="thm-btn">Discover More</a>
                 </div>
               </div>
             </div>
