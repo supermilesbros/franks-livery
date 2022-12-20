@@ -3,17 +3,17 @@
     <div class="topbar-one topbar_four">
       <div class="container">
         <div class="topbar-one__left">
+          
+        </div>
+        <div class="topbar-one__middle">
           <a href="/" class="main-nav__logo">
             <img
               src="/assets/images/resources/frankFull-white.png"
               class="main-logo"
-              style="height: 185px;"
+              style="height: 150px;"
               alt="Awesome Image"
             />
           </a>
-        </div>
-        <div class="topbar-one__middle">
-         
         </div>
         <!-- <div class="topbar-one__right">
           <a href="https://www.parks-alliance.org/" target="_blank" class="main-nav__logo">

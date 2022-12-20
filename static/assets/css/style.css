@@ -38,7 +38,10 @@
 
 /*font-family: 'Barlow', sans-serif;
 font-family: 'Amatic SC', cursive;*/
-
+@font-face {
+  font-family: 'CocoGoose-Pro-Italic';
+  src: url(../fonts/cocogoose-pro.italic.ttf);
+}
 :root {
   --thm-font: "Barlow", sans-serif;
   --heading-font: "Oswald", sans-serif;
