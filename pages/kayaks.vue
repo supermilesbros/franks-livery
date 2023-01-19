@@ -1,9 +1,8 @@
 <template>
   <div>
     <NavFive />
-    <PageHeader title="Contact" />
-    <ContactTwo />
-    <GMap />
+    <PageHeader title="Product Detail" />
+    <ProductDetail />
     <Footer />
   </div>
 </template>
@@ -12,20 +11,18 @@
 
   import NavFive from "../components/NavFive";
   import PageHeader from "../components/PageHeader";
+  import ProductDetail from "../components/ProductDetail";
   import Footer from "../components/Footer";
-  import ContactTwo from "../components/ContactTwo";
-  import GMap from "../components/GMap";
   export default {
     components: {
-      GMap,
-      ContactTwo,
       Footer,
       PageHeader,
+      ProductDetail,
       NavFive
     },
     head(){
       return {
-        title: "Frank's  | Contact"
+        title: "Agrikol  | Product Detail"
       }
     }
   }

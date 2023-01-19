@@ -1,53 +1,40 @@
 <template>
   <div>
-    <Nav />
-    <Slider />
-    <AboutOne />
-    <ServiceOne />
-    <BrandOne />
-    <FeaturedOne />
-    <VideoOne />
-    <TestimonialOne />
-    <RecentProject />
-    <Benefits />
-    <ProductOne />
-    <BlogOne />
-    <CallToActionOne />
+    <NavFive />
+    <SliderFive />
+    <ServiceTwo />
+    <TestimonialFour />
+    <TwoBoxes />
+    <HealthyFood />
+    <ContactOne />
     <Footer />
   </div>
 </template>
 
 <script>
-import Slider from "../components/Slider";
-import Nav from "../components/Nav";
-import AboutOne from "../components/AboutOne";
-import ServiceOne from "../components/ServiceOne";
-import BrandOne from "../components/BrandOne";
-import FeaturedOne from "../components/FeaturedOne";
-import VideoOne from "../components/VideoOne";
-import TestimonialOne from "../components/TestimonialOne";
-import RecentProject from "../components/RecentProject";
-import Benefits from "../components/Benefits";
-import ProductOne from "../components/ProductOne";
-import BlogOne from "../components/BlogOne";
-import CallToActionOne from "../components/CallToActionOne";
-import Footer from "../components/Footer";
-export default {
-  components: {
-    Footer,
-    CallToActionOne,
-    BlogOne,
-    ProductOne,
-    Benefits,
-    RecentProject,
-    TestimonialOne,
-    VideoOne,
-    FeaturedOne,
-    BrandOne,
-    ServiceOne,
-    AboutOne,
-    Slider,
-    Nav,
-  },
-};
+  import NavFive from "../components/NavFive";
+  import SliderFive from "../components/SliderFive";
+  import ServiceTwo from "../components/ServiceTwo";
+  import TestimonialFour from "../components/TestimonialFour";
+  import TwoBoxes from "../components/TwoBoxes";
+  import HealthyFood from "../components/HealthyFood";
+  import ContactOne from "../components/ContactOne";
+  import Footer from "../components/Footer";
+  export default {
+    components: {
+      Footer,
+      ContactOne,
+      HealthyFood,
+      TwoBoxes,
+      TestimonialFour,
+      ServiceTwo,
+      SliderFive,
+      NavFive
+    },
+    head(){
+      return {
+        title: "Frank's  | Home"
+      }
+    }
+  }
 </script>

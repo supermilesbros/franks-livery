@@ -4,8 +4,8 @@
     </div>
     <div class="container">
       <div class="block-title text-left">
-        <p>What we do</p>
-        <h3>Healthy Food for Growing</h3>
+        <p class="text-orange">Frank's Paddlesports</p>
+        <h3 class="mission-text">Our Mission Statement</h3>
         <div class="leaf">
           <img src="/assets/images/resources/paddle.png" alt="">
         </div>
@@ -13,24 +13,13 @@
       <div class="row">
         <div class="col-xl-6">
           <div class="healthy_food_text">
-            <p>Lorem ipsum dolor sit amet nsectetur cing elit. Suspe ndisse suscipit sagittis leo sit
-              met entum estibu dignissim posuere cubilia durae. Leo sit met entum cubilia crae onec.
+            <p>Our mission is to be Indianapolis’ leading provider of canoe, kayak and stand-up paddleboard rentals, tours and instruction. We aim to explore new
+                opportunities that build the river community, provide equitable river access and
+                create environmental sustainability using our core competencies to gain an
+                advantageous market position.
             </p>
           </div>
-          <ul class="healthy_food_box list-unstyled">
-            <li class="healthy_food_single">
-              <span class="icon-harvest"></span>
-              <h3>Harvesting</h3>
-            </li>
-            <li class="healthy_food_single">
-              <span class="icon-focus"></span>
-              <h3>Harvesting</h3>
-            </li>
-            <li class="healthy_food_single">
-              <span class="icon-tractor"></span>
-              <h3>Harvesting</h3>
-            </li>
-          </ul>
+          
         </div>
       </div>
     </div>
@@ -44,5 +33,10 @@
 </script>
 
 <style scoped>
-
+.text-orange {
+  color: var(--thm-base)
+}
+.mission-text {
+  text-shadow: 1px 1px #1a1b1e
+}
 </style>

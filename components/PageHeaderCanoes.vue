@@ -3,6 +3,10 @@
   <section class="page-header" style="background-image: url(/assets/images/backgrounds/page-header-contact.jpg);">
     <div class="container">
       <h2 class="header-text">{{ title }}</h2>
+      <ul class="thm-breadcrumb list-unstyled">
+        <li><nuxt-link to="/canoes">Prospecteur 16</nuxt-link></li>
+        <li><span>Huron 16</span></li>
+      </ul>
     </div>
   </section>
 

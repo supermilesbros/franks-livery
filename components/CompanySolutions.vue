@@ -2,8 +2,8 @@
   <section class="company_solutions">
     <div class="container">
       <div class="block-title text-center">
-        <p>company solutions</p>
-        <h3>Independently Owned</h3>
+        <p class="text-base">Frank's Passion</p>
+        <h3>Waterway Conservation</h3>
         <div class="leaf">
           <img src="/assets/images/resources/paddle.png" alt="">
         </div>
@@ -14,9 +14,9 @@
             <div class="company_solutions_image">
               <img src="/assets/images/resources/com_solutions_img-1.jpg" alt="">
             </div>
-            <h2>Harvest Innovations</h2>
-            <p>There are many variations of passages of available, but the majority have in some form,
-              by humour words which don't look believable.</p>
+            <h2>Cleaning our rivers</h2>
+            <p>Get the West Fork of the White River off
+                of the national “Impaired Waterways” list.</p>
           </div>
         </div>
         <div class="col-xl-4 col-lg-4">
@@ -24,9 +24,10 @@
             <div class="company_solutions_image">
               <img src="/assets/images/resources/com_solutions_img-2.jpg" alt="">
             </div>
-            <h2>Agriculture farming</h2>
-            <p>There are many variations of passages of available, but the majority have in some form,
-              by humour words which don't look believable.</p>
+            <h2>Active Lobbying</h2>
+            <p>Lobby Fort Harrison State Park to put
+                trash receptacles/dumpsters in the parking lots and place signage along Fall
+                Creek</p>
           </div>
         </div>
         <div class="col-xl-4 col-lg-4">
@@ -34,9 +35,9 @@
             <div class="company_solutions_image">
               <img src="/assets/images/resources/com_solutions_img-3.jpg" alt="">
             </div>
-            <h2>organic solutions</h2>
-            <p>There are many variations of passages of available, but the majority have in some form,
-              by humour words which don't look believable.</p>
+            <h2>Educate the Masses</h2>
+            <p>Educating people that rivers are not dumping grounds. Get
+                more people’s eyes on the waterways.</p>
           </div>
         </div>
       </div>
@@ -51,5 +52,10 @@
 </script>
 
 <style scoped>
-
+.text-accent {
+  color: var(--thm-accent);
+}
+.text-base {
+  color: var(--thm-base);
+}
 </style>
