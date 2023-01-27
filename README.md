@@ -1,10 +1,10 @@
 # apiton
 
-> Apiton - Vue Nuxt App Landing Page Template
+> Franks Paddlesports Livery
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm install
 
