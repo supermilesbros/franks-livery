@@ -15,16 +15,13 @@
             />
           </a>
         </div>
-        <!-- <div class="topbar-one__right">
-          <a href="https://www.parks-alliance.org/" target="_blank" class="main-nav__logo">
-            <img
-              src="/assets/images/resources/TPA_White.png"
-              class="main-logo"
-              style="height: 100px;"
-              alt="Awesome Image"
-            />
-          </a>
-        </div> -->
+        <div class="topbar-one__right">
+          <div class="topbar-one__social">
+              <a href="https://www.facebook.com/profile.php?id=100086520483229"><i class="fab fa-facebook-square"></i></a>
+              <a href="https://www.instagram.com/franks_livery/"><i class="fab fa-instagram"></i></a>
+              <a href="https://twitter.com/franks_livery"><i class="fab fa-twitter"></i></a>
+            </div>
+        </div>
       </div>
     </div>
 
