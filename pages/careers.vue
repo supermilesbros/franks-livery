@@ -30,7 +30,7 @@
           <a
             href="/assets/images/franks-customer-job-post.pdf"
             download
-            class="frank-btn"
+            class="frank-btn-two"
           >
             Job Posting
           </a>
@@ -61,7 +61,7 @@
           <a
             href="/assets/images/franks-operations-job-post.pdf"
             download
-            class="frank-btn"
+            class="frank-btn-two"
           >
             Job Posting
           </a>
@@ -98,6 +98,13 @@ export default {};
 .job-posts {
   padding-top: 50px;
 }
+.job-post h3 {
+  color: var(--thm-black);
+  font-family: "CocoGoose-Pro";
+}
+.job-post p {
+  color: black;
+}
 .job-post-wrapper {
   padding-bottom: 45px;
   max-width: 80%;
@@ -132,9 +139,25 @@ export default {};
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
 }
+.frank-btn-two {
+  display: inline-block;
+  vertical-align: middle;
+  border: none;
+  outline: none;
+  background-color: var(--thm-black);
+  font-size: 20px;
+  color: white !important;
+  font-weight: 600;
+  padding: 14px 25px;
+  border-radius: 5px;
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
 
 .frank-btn:hover {
-  background-color: var(--thm-primary) !important;
-  color: white !important;
+  color: var(--thm-black) !important;
+}
+.frank-btn-two:hover {
+  color: var(--thm-base) !important;
 }
 </style>
