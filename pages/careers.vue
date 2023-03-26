@@ -72,7 +72,13 @@
 </template>
 
 <script>
-export default {};
+export default {
+  head() {
+    return {
+      title: "Frank's Paddlesports Livery - Now Hiring"
+    };
+  }
+};
 </script>
 
 <style lang="css" scoped>

@@ -27,7 +27,7 @@
                     <div style="padding-top: 35px;" class="link-box">
                       <!-- <a href="/" target="_blank" class="thm-btn">Discover More</a> -->
                       <div @click="$router.push('/careers')" class="thm-btn">
-                        Coming Soon
+                        Now Hiring
                       </div>
                     </div>
                   </div>
