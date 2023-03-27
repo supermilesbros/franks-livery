@@ -96,7 +96,6 @@ export default {
 <style lang="css" scoped>
 .career-wrapper {
   background-color: #fffbce;
-  height: 100vh;
   padding-left: 25px;
   padding-right: 25px;
 }
@@ -112,6 +111,7 @@ export default {
   font-size: 4.5rem;
   font-weight: 700;
   color: #3b4a25;
+  text-align: center;
 }
 .job-posts {
   padding-top: 50px;
@@ -128,6 +128,11 @@ export default {
   max-width: 80%;
   margin-left: auto;
   margin-right: auto;
+}
+@media screen and (max-width: 768px) {
+  .job-post-wrapper {
+    max-width: 100%;
+  }
 }
 .job-post {
   display: flex;
