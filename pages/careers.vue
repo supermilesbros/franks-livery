@@ -66,6 +66,18 @@
             Job Posting
           </a>
         </div>
+        <div class="instructions">
+          <h4>
+            To apply, please send your completed application to
+            <span
+              ><a href="mailto:admin@frankslivery.com"
+                >Admin@FranksLivery.com</a
+              ></span
+            >
+            <br />
+            We look forward to hearing from you!
+          </h4>
+        </div>
       </div>
     </section>
   </div>
@@ -165,5 +177,18 @@ export default {
 }
 .frank-btn-two:hover {
   color: var(--thm-base) !important;
+}
+.instructions {
+  padding-top: 25px;
+}
+.instructions h4 {
+  color: var(--thm-black);
+  font-weight: 600;
+}
+.instructions span {
+  color: var(--thm-base);
+}
+.instructions a {
+  color: var(--thm-base);
 }
 </style>
